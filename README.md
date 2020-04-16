@@ -2,11 +2,15 @@
 
 Created a simple wordpress project within the docker environment
 
-### Requeriments
+### Requirements Ubuntu
 
 - docker installed
 - docker-compose installed
 - docker-compose >= 2
+
+### Requirements Windows/Mac
+
+- docker-toolbox https://docs.docker.com/toolbox/toolbox_install_windows/
 
 ### Usage
 
