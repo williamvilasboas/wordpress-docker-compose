@@ -19,14 +19,20 @@ Created a simple wordpress project within the docker environment
 - Windows https://support.rackspace.com/how-to/modify-your-hosts-file/
 - Ubuntu https://support.rackspace.com/how-to/modify-your-hosts-file/
 
-#### using and monitore logs
+#### Using and monitore logs
 
 ```bash
 docker-compose up
 ```
 
-#### using in background service
+#### Using in background service
 
 ```bash
 docker-compose up -d
+```
+
+#### Stop service in background
+
+```bash
+docker-compose down
 ```
